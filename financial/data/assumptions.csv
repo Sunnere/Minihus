@@ -1,9 +1,7 @@
-Category,Parameter,Value,Unit,Source,Last Updated
-Land,Land Cost,,,,
-Construction,Construction Cost per sqm,,,,
-Revenue,Average Nightly Rate,,,,
-Revenue,Occupancy Rate,,,,
-Operations,Maintenance Cost,,,,
-Operations,Utilities,,,,
-Finance,Exchange Rate NOK/THB,,,,
-Finance,Inflation,,,,
+ID,Category,Parameter,Value,Unit,Confidence,Source ID
+A001,Revenue,Average Nightly Rate,,,,SRC-0000
+A002,Revenue,Occupancy Rate,,,,SRC-0000
+A003,Construction,Construction Cost,,,,SRC-0000
+A004,Land,Land Cost,,,,SRC-0000
+A005,Finance,Exchange Rate,,,,SRC-0000
+A006,Operations,Maintenance,,,,SRC-0000
