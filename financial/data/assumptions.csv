@@ -1,0 +1,9 @@
+Category,Parameter,Value,Unit,Source,Last Updated
+Land,Land Cost,,,,
+Construction,Construction Cost per sqm,,,,
+Revenue,Average Nightly Rate,,,,
+Revenue,Occupancy Rate,,,,
+Operations,Maintenance Cost,,,,
+Operations,Utilities,,,,
+Finance,Exchange Rate NOK/THB,,,,
+Finance,Inflation,,,,
